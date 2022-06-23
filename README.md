@@ -50,6 +50,14 @@ param_tuned = {
         }
 ```
 
+## Business Total Performance
+
+|Scenario|Values|
+|--------|------|
+|Predictions|$285,950,016.00|
+|Worst Scenario|$285,091,805.69|
+|Best Scenario|	$286,808,272.34|
+
 ## Model Performance Visualization
 
 Here we have the visualization of the model's performance in terms of comparison with the actual sales and how the error behaves.
